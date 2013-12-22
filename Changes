@@ -1,0 +1,29 @@
+==================================================
+Changes from 1740-03-09 00:00:00 +0000 to present.
+==================================================
+
+------------------------------------------
+version 0.001 at 2013-12-22 15:24:29 +0000
+------------------------------------------
+
+  Change: c6b6e7c4b7dfd0c7501c399a423160f1b99aa091
+  Author: Torsten Raudssus <torsten@raudss.us>
+  Date : 2013-12-22 16:23:39 +0000
+
+    Added travis config 
+
+  Change: 773e889fcee360cb9ee44cacb20a6033d89a5482
+  Author: Torsten Raudssus <torsten@raudss.us>
+  Date : 2013-12-22 16:23:14 +0000
+
+    First working implementation 
+
+  Change: 02aa677d089f207f4f05c2cb2abe7a80104939c9
+  Author: Torsten Raudssus <torsten@raudss.us>
+  Date : 2013-12-21 23:34:07 +0000
+
+    initial commit 
+
+================
+End of releases.
+================
