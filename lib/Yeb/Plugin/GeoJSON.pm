@@ -2,8 +2,8 @@ package Yeb::Plugin::GeoJSON;
 BEGIN {
   $Yeb::Plugin::GeoJSON::AUTHORITY = 'cpan:GETTY';
 }
-# ABSTRACT: Yeb Plugin for JSON response
-$Yeb::Plugin::GeoJSON::VERSION = '0.002';
+# ABSTRACT: Yeb Plugin for GeoJSON response with Geo::JSON::Simple functions
+$Yeb::Plugin::GeoJSON::VERSION = '0.003';
 use Moo;
 use Geo::JSON::Simple;
 
@@ -30,13 +30,15 @@ __END__
 
 =head1 NAME
 
-Yeb::Plugin::GeoJSON - Yeb Plugin for JSON response
+Yeb::Plugin::GeoJSON - Yeb Plugin for GeoJSON response with Geo::JSON::Simple functions
 
 =head1 VERSION
 
-version 0.002
+version 0.003
 
 =head1 SYNOPSIS
+
+See also L<Geo::JSON::Simple>.
 
 =encoding utf8
 

@@ -1,9 +1,9 @@
 
 
 This archive contains the distribution Yeb-Plugin-GeoJSON,
-version 0.002:
+version 0.003:
 
-  Yeb Plugin for JSON response
+  Yeb Plugin for GeoJSON response with Geo::JSON::Simple functions
 
 This software is copyright (c) 2013 by Torsten Raudssus.
 
